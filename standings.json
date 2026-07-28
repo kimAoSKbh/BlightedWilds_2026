@@ -1,0 +1,20 @@
+[
+  {
+    "player":"Kim",
+    "faction":"Ossiarch Bonereapers",
+    "gp":225,
+    "battles":3
+  },
+  {
+    "player":"Magnus",
+    "faction":"Ironjawz",
+    "gp":200,
+    "battles":1
+  },
+  {
+    "player":"Mikkel",
+    "faction":"Stormcast Eternals",
+    "gp":110,
+    "battles":1
+  }
+]
