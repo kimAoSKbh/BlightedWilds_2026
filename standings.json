@@ -26,19 +26,19 @@
   {
     "player": "Kim",
     "faction": "Ossiarch Bonereapers",
-    "gp": 225,
-    "battles": 3
+    "gp": 305,
+    "battles": 2
   },
   {
     "player": "Magnus",
     "faction": "Ironjawz",
-    "gp": 200,
-    "battles": 1
+    "gp": 0,
+    "battles": 0
   },
   {
     "player": "Marius",
     "faction": "Helsmiths of Hashut",
-    "gp": 0,
+    "gp": 150,
     "battles": 1
   },
   {
@@ -56,14 +56,14 @@
   {
     "player": "Mikkel",
     "faction": "Stormcast Eternals",
-    "gp": 110,
-    "battles": 1
+    "gp": 0,
+    "battles": 0
   },
   {
     "player": "Morten",
     "faction": "Gloomspite Gitz",
-    "gp": 0,
-    "battles": 0
+    "gp": 210,
+    "battles": 1
   },
   {
     "player": "Oscar",
