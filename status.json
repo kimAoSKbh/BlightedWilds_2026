@@ -2,79 +2,66 @@
   {
     "player": "Anders",
     "faction": "Helsmiths of Hashut",
-    "gp": 0,
-    "battles": 0
+    "gp": 0
   },
   {
     "player": "Erkut",
     "faction": "Slaves to Darkness",
-    "gp": 0,
-    "battles": 0
+    "gp": 0
   },
   {
     "player": "Jacob",
     "faction": "Sylvaneth",
-    "gp": 0,
-    "battles": 0
+    "gp": 0
   },
   {
     "player": "Johan",
     "faction": "Soulblight Gravelords",
-    "gp": 0,
-    "battles": 0
+    "gp": 0
   },
   {
     "player": "Kim",
     "faction": "Ossiarch Bonereapers",
-    "gp": 305,
-    "battles": 2
+    "gp": 305
   },
   {
     "player": "Magnus",
     "faction": "Ironjawz",
-    "gp": 0,
-    "battles": 0
+    "gp": 0
   },
   {
     "player": "Marius",
     "faction": "Helsmiths of Hashut",
-    "gp": 150,
-    "battles": 1
+    "gp": 150
   },
   {
     "player": "Martin",
     "faction": "Maggotkin of Nurgle",
-    "gp": 0,
-    "battles": 0
+    "gp": 0
   },
   {
     "player": "Michel",
     "faction": "Maggotkin of Nurgle",
-    "gp": 0,
-    "battles": 0
+    "gp": 0
   },
   {
     "player": "Mikkel",
     "faction": "Stormcast Eternals",
-    "gp": 0,
-    "battles": 0
+    "gp": 0
   },
   {
     "player": "Morten",
     "faction": "Gloomspite Gitz",
-    "gp": 210,
-    "battles": 1
+    "gp": 210
   },
   {
     "player": "Oscar",
     "faction": "Soulblight Gravelords",
-    "gp": 0,
-    "battles": 0
+    "gp": 0
   },
   {
     "player": "Sebastian",
     "faction": "Idoneth Deepkin",
-    "gp": 0,
-    "battles": 0
+    "gp": 0
   }
 ]
