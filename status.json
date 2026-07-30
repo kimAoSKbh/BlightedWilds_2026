@@ -2,66 +2,79 @@
   {
     "player": "Anders",
     "faction": "Helsmiths of Hashut",
-    "gp": 0
+    "gp": 0,
+    "available": ""
   },
   {
     "player": "Erkut",
     "faction": "Slaves to Darkness",
-    "gp": 0
+    "gp": 0,
+    "available": ""
   },
   {
     "player": "Jacob",
     "faction": "Sylvaneth",
-    "gp": 0
+    "gp": 0,
+    "available": ""
   },
   {
     "player": "Johan",
     "faction": "Soulblight Gravelords",
-    "gp": 0
+    "gp": 0,
+    "available": ""
   },
   {
     "player": "Kim",
     "faction": "Ossiarch Bonereapers",
-    "gp": 305
+    "gp": 305,
+    "available": "A Dense and Choking Maze\nCursed Kernel\nEscort to the Wellspring Grove\nForest Fortress\nThyria's Bounty"
   },
   {
     "player": "Magnus",
     "faction": "Ironjawz",
-    "gp": 0
+    "gp": 0,
+    "available": ""
   },
   {
     "player": "Marius",
     "faction": "Helsmiths of Hashut",
-    "gp": 150
+    "gp": 150,
+    "available": "A Dense and Choking Maze\nCursed Kernel\nForest Fortress\nThyria's Bounty"
   },
   {
     "player": "Martin",
     "faction": "Maggotkin of Nurgle",
-    "gp": 0
+    "gp": 0,
+    "available": ""
   },
   {
     "player": "Michel",
     "faction": "Maggotkin of Nurgle",
-    "gp": 0
+    "gp": 0,
+    "available": ""
   },
   {
     "player": "Mikkel",
     "faction": "Stormcast Eternals",
-    "gp": 0
+    "gp": 0,
+    "available": ""
   },
   {
     "player": "Morten",
     "faction": "Gloomspite Gitz",
-    "gp": 210
+    "gp": 210,
+    "available": "Cursed Kernel\nEscort to the Wellspring Grove\nForest Fortress\nThyria's Bounty"
   },
   {
     "player": "Oscar",
     "faction": "Soulblight Gravelords",
-    "gp": 0
+    "gp": 0,
+    "available": ""
   },
   {
     "player": "Sebastian",
     "faction": "Idoneth Deepkin",
-    "gp": 0
+    "gp": 0,
+    "available": ""
   }
 ]
