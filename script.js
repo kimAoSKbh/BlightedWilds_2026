@@ -10,7 +10,7 @@ fetch("status.json")
         <td>${player.player}</td>
         <td>${player.faction}</td>
         <td>${player.gp}</td>
-        <td>${player.battles}</td>
+        <td>${player.available}</td>
       `;
 
       tbody.appendChild(row);
