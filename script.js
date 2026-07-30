@@ -1,4 +1,4 @@
-fetch("standings.json")
+fetch("status.json")
   .then(response => response.json())
   .then(data => {
     const tbody = document.querySelector("#standings tbody");
